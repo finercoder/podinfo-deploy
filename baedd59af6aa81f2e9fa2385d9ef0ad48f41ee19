@@ -1,0 +1,1 @@
+{"jobID":"c259f481-a013-8c83-b34d-cf3e962e6241","spec":{"type":"policy","cause":{"Message":"","User":"Adam Finer \u003cfineral@rose-hulman.edu\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
